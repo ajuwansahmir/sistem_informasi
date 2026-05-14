@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: monitoring-penyakit
+    env: docker
+    plan: free
